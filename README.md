@@ -1,9 +1,9 @@
 # Javascript CRUDS Project - System Management
-#Abdelrahman Gamal Youtube Channel with extra features
+#Abdelrahman Gamal youtube channel with extra features
 
 Live Demo: https://mandela95.github.io/CRUDS/
 
-CRUD is an acronym for
+CRUDS is an acronym for
 C => Create - The create function allows users to create a new record in the database.
 
 R => Read - The read function is similar to a search function. It allows users to search and retrieve specific records in the table and read their values. Users may be able to find desired records using keywords, or by filtering the data based on customized criteria.
