@@ -1,5 +1,5 @@
 # Javascript CRUDS Project - System Management
-#Abdelrahman Gamal youtube channel with extra features
+#Abdelrahman Gamal youtube channel with extra features.
 
 Live Demo: https://mandela95.github.io/CRUDS/
 
