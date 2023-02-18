@@ -1,7 +1,7 @@
 # Javascript CRUDS Project - System Management
 #Abdelrahman Gamal Youtube Channel with extra features
 
-Live Demo: 
+Live Demo: https://mandela95.github.io/CRUDS/
 
 CRUD is an acronym for
 C => Create - The create function allows users to create a new record in the database.
