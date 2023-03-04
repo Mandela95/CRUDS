@@ -149,6 +149,7 @@ function deleteData(i) {
   dataProduct.splice(i, 1);
   localStorage.product = JSON.stringify(dataProduct);
   showData();
+  clearData();
 }
 
 // delete all
