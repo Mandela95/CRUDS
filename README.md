@@ -1,7 +1,9 @@
 # Javascript CRUDS Project - System Management
-#Abdelrahman Gamal youtube channel with extra features.
-
 Live Demo: https://mandela95.github.io/CRUDS/
+
+![add product(cruds)](https://raw.githubusercontent.com/Mandela95/CRUDS/main/Cruds.png)
+
+#Abdelrahman Gamal youtube channel with extra features.
 
 CRUDS is an acronym for
 C => Create - The create function allows users to create a new record in the database.
