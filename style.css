@@ -103,7 +103,7 @@ td {
   text-align: center;
   border-radius: 5px;
 }
-@media (max-width: 500px) {
+@media (max-width: 700px) {
   table tr {
     display: flex;
     flex-direction: column;
